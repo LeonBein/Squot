@@ -11,6 +11,7 @@
 		"appendToLoadOrder:" : "jr 8/18/2018 16:21",
 		"applyDiff:" : "jr 7/16/2017 19:17",
 		"applyDiff:toObjectAt:" : "jr 10/21/2017 15:55",
+		"applyFilesDiff:" : "jr 5/5/2019 21:49",
 		"applyPatch:" : "jr 9/15/2018 20:41",
 		"artifactAt:" : "LB 4/27/2019 19:08",
 		"artifacts" : "jr 4/7/2018 15:53",

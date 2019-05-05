@@ -1,4 +1,4 @@
 applying
-applyTo: aSquotFileSystemStore
+applyTo: aDirectory
 
-	self applyToTarget: aSquotFileSystemStore directory.
+	self applyToTarget: aDirectory.
